@@ -22,8 +22,8 @@ The target feature for the model is 'IS_SUCCESSFUL'.
 
 * Unique values were determined for each column. For columns with over 10 unique values, data points for each unique value were counted. A cutoff point was established based on the number of data points for each unique value to bin "rare" categorical variables together into a new value, "Other". The following features were binned using this method:
 
-- APPLICATION_TYPE
-- CLASSIFICATION
+-APPLICATION_TYPE
+CLASSIFICATION
 - INCOME_AMT
 - AFFILIATION
 - USE_CASE
