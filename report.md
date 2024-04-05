@@ -46,7 +46,7 @@ The target feature for the model is 'IS_SUCCESSFUL'.
 * For the test data, the model yielded an accuracy of 0.6780 and a loss of 0.8298.
 * The model was saved to a file in HDF5 format.
 
-*However, the model fell short of the target performance of achieving higher than 75% accuracy.
+* However, the model fell short of the target performance of achieving higher than 75% accuracy.
 
 * To improve performance, rare categorical values for the following features were binned separately:
 - INCOME_AMT
